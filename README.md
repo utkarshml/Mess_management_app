@@ -106,8 +106,14 @@ The Mess Management App is a web-based application designed to streamline the op
         └── custom.d.ts
 ```
 
+## App View Video
+
+Watch the video below to see the app demonstration in action.
+
+[![Watch the Video](https://drive.google.com/file/d/1aY4OSzr-G0e_ZdhH6Pgtb41tNCR988Zb/view)
 
 ###  Project Index
+
 <details open>
 	<summary><b><code>MESS_MANAGEMENT_APP/</code></b></summary>
 	<details> <!-- __root__ Submodule -->
