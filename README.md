@@ -110,7 +110,7 @@ The Mess Management App is a web-based application designed to streamline the op
 
 Watch the video below to see the app demonstration in action.
 
-[![Watch the Video](https://drive.google.com/file/d/1aY4OSzr-G0e_ZdhH6Pgtb41tNCR988Zb/view)
+[![Watch the Video](https://res.cloudinary.com/div94qlyl/image/upload/c_thumb,w_200,g_face/v1744137983/videoframe_97221_nefl8x.png)](https://res.cloudinary.com/div94qlyl/video/upload/v1744137626/screen-20250408-231608_bhk2wk.mp4))
 
 ###  Project Index
 
